@@ -1,0 +1,11 @@
+.App-title {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: steelblue;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  background-color: #fff;
+  padding: 1rem;
+  border-bottom: 2px solid #272727;
+  margin-top: 0;
+}
